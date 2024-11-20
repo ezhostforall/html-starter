@@ -41,17 +41,9 @@ Getting Started
 
 1.  **Clone the Repository:**
 
-    bash
-
-    Copy code
-
     `git clone https://github.com/yourusername/example-homepage.git`
 
 2.  **Navigate to the Project Folder:**
-
-    bash
-
-    Copy code
 
     `cd example-homepage`
 
